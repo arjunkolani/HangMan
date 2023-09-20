@@ -3,8 +3,11 @@ using System;
 
 namespace Hangman
 {
-    public static void sayHello()
+    internal class Program
     {
-        Console.WriteLine("Hello world!");
+        public static void sayHello()
+        {
+            Console.WriteLine("Hello world!");
+        }
     }
 }
