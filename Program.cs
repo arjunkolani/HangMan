@@ -5,6 +5,6 @@ namespace Hangman
 {
     public static void sayHello()
     {
-        Console.WriteLine("Hello world!")
+        Console.WriteLine("Hello world!");
     }
 }
