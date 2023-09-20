@@ -3,7 +3,7 @@ using System;
 
 namespace Hangman
 {
-    internal class SetUp
+    internal class Arjun
     {
         public static string pickWord()
         {
