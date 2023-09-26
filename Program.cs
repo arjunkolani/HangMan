@@ -1,13 +1,15 @@
 using System;
 
 
-namespace Hangman
+namespace HangMan
 {
     internal class Program
     {
-        public static void sayHello()
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            string word = Arjun.pickWord(2);
+            Console.WriteLine(word);
+            Console.WriteLine("Hello, World!");
         }
     }
 }
