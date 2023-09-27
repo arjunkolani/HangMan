@@ -1,4 +1,5 @@
 using System;
+using static System.Console;
 
 namespace HangMan
 {
@@ -7,12 +8,16 @@ namespace HangMan
         public static void Main(string[] args)
         {
             string word = Arjun.pickWord(2);
-            Console.WriteLine(word);
-            Console.WriteLine("Hello, World!");
-
-            for (int i = 0; i < 10; i++)
+            WriteLine(word);
+            WriteLine("Hello, World!");
+            for (var i = 0; i < 10; i++)
             {
-                Console.WriteLine(Sophie.OutputGallows(i));
+                string guessedLetter = ReadLine();
+                CheckLetterFunction.CheckLetter(word , guessedLetter);
+            }
+            for (var i = 0; i < 10; i++)
+            {
+                WriteLine(Sophie.OutputGallows(i));
             }
         }
     }
