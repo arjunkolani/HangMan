@@ -8,7 +8,7 @@ namespace HangMan
 {
     internal class Sophie
     {
- 
+
         public static string OutputGallows(int WrongTries)
         {
             string Design = "";
@@ -53,8 +53,33 @@ namespace HangMan
             {
                 Design = "_________\n |/      |\n |      (_)\n |      \\|/\n |       |\n |      / \\\n |\n_|___";
             }
+            // full design = "_________\n |/      |\n |      (_)\n |      \\|/\n |       |\n |      / \\\n |\n_|___"
             return Design;
+        }
+
+        public static string DisplayGuesses(string word, char[] letters)
+        {
+            string OutStr = "";
+            foreach (char c1 in word)
+            {
+                int check = 0;
+                foreach (char c2 in letters)
+                {
+                    if (c1 == c2)
+                    {
+                        check++;
+                    }
+                }
+                if (check == 1)
+                {
+                    OutStr += c1;
+                }
+                else
+                {
+                    OutStr += '_';
+                }
+            }
+            return OutStr;
         }
     }
 }
-// full design = "_________\n |/      |\n |      (_)\n |      \\|/\n |       |\n |      / \\\n |\n_|___"
