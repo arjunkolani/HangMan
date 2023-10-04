@@ -6,8 +6,6 @@ namespace HangMan
     {
         public static void Main(string[] args)
         {
-            char[] testing = { 'e', 'c', 'a' };
-            Arjun.outputGuessed("cheese", testing);
         }
     }
 }
