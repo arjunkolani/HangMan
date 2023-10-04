@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sophie at school\\Desktop\\computing\\hangman\\HangMan.csproj": {}
+    "C:\\Users\\rajan\\Documents\\Lower 6th CS\\CSharp work\\HangMan\\HangMan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sophie at school\\Desktop\\computing\\hangman\\HangMan.csproj": {
+    "C:\\Users\\rajan\\Documents\\Lower 6th CS\\CSharp work\\HangMan\\HangMan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sophie at school\\Desktop\\computing\\hangman\\HangMan.csproj",
+        "projectUniqueName": "C:\\Users\\rajan\\Documents\\Lower 6th CS\\CSharp work\\HangMan\\HangMan.csproj",
         "projectName": "HangMan",
-        "projectPath": "C:\\Users\\sophie at school\\Desktop\\computing\\hangman\\HangMan.csproj",
-        "packagesPath": "C:\\Users\\sophie at school\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sophie at school\\Desktop\\computing\\hangman\\obj\\",
+        "projectPath": "C:\\Users\\rajan\\Documents\\Lower 6th CS\\CSharp work\\HangMan\\HangMan.csproj",
+        "packagesPath": "C:\\Users\\rajan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rajan\\Documents\\Lower 6th CS\\CSharp work\\HangMan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sophie at school\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
