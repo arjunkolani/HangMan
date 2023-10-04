@@ -24,5 +24,6 @@ namespace HangMan
             Console.WriteLine("Press Enter to close window...");
             Console.ReadLine();
         }
+        
     }
 }

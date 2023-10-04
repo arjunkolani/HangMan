@@ -1,28 +1,42 @@
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\HangMan.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\HangMan.AssemblyInfoInputs.cache
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\HangMan.AssemblyInfo.cs
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\HangMan.csproj.CoreCompileInputs.cache
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\bin\Debug\net6.0\HangMan.exe
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\bin\Debug\net6.0\HangMan.deps.json
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\bin\Debug\net6.0\HangMan.runtimeconfig.json
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\bin\Debug\net6.0\HangMan.dll
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\bin\Debug\net6.0\HangMan.pdb
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\HangMan.dll
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\refint\HangMan.dll
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\HangMan.pdb
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\HangMan.genruntimeconfig.cache
-C:\Users\rajan\Documents\Lower 6th CS\CSharp work\HangMan\obj\Debug\net6.0\ref\HangMan.dll
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\HangMan.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\HangMan.AssemblyInfoInputs.cache
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\HangMan.AssemblyInfo.cs
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\HangMan.csproj.CoreCompileInputs.cache
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\HangMan.dll
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\refint\HangMan.dll
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\HangMan.pdb
-C:\Users\sophie at school\Desktop\computing\hangman\bin\Debug\net6.0\HangMan.exe
-C:\Users\sophie at school\Desktop\computing\hangman\bin\Debug\net6.0\HangMan.deps.json
-C:\Users\sophie at school\Desktop\computing\hangman\bin\Debug\net6.0\HangMan.runtimeconfig.json
-C:\Users\sophie at school\Desktop\computing\hangman\bin\Debug\net6.0\HangMan.dll
-C:\Users\sophie at school\Desktop\computing\hangman\bin\Debug\net6.0\HangMan.pdb
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\HangMan.genruntimeconfig.cache
-C:\Users\sophie at school\Desktop\computing\hangman\obj\Debug\net6.0\ref\HangMan.dll
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/HangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/HangMan.AssemblyInfoInputs.cache
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/HangMan.AssemblyInfo.cs
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/HangMan.csproj.CoreCompileInputs.cache
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/bin/Debug/net6.0/HangMan.exe
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/bin/Debug/net6.0/HangMan.deps.json
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/bin/Debug/net6.0/HangMan.runtimeconfig.json
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/bin/Debug/net6.0/HangMan.dll
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/bin/Debug/net6.0/HangMan.pdb
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/HangMan.dll
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/refint/HangMan.dll
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/HangMan.pdb
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/HangMan.genruntimeconfig.cache
+C:/Users/rajan/Documents/Lower 6th CS/CSharp work/HangMan/obj/Debug/net6.0/ref/HangMan.dll
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/HangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/HangMan.AssemblyInfoInputs.cache
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/HangMan.AssemblyInfo.cs
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/HangMan.csproj.CoreCompileInputs.cache
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/HangMan.dll
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/refint/HangMan.dll
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/HangMan.pdb
+C:/Users/sophie at school/Desktop/computing/hangman/bin/Debug/net6.0/HangMan.exe
+C:/Users/sophie at school/Desktop/computing/hangman/bin/Debug/net6.0/HangMan.deps.json
+C:/Users/sophie at school/Desktop/computing/hangman/bin/Debug/net6.0/HangMan.runtimeconfig.json
+C:/Users/sophie at school/Desktop/computing/hangman/bin/Debug/net6.0/HangMan.dll
+C:/Users/sophie at school/Desktop/computing/hangman/bin/Debug/net6.0/HangMan.pdb
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/HangMan.genruntimeconfig.cache
+C:/Users/sophie at school/Desktop/computing/hangman/obj/Debug/net6.0/ref/HangMan.dll
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/HangMan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/HangMan.AssemblyInfoInputs.cache
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/HangMan.AssemblyInfo.cs
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/HangMan.csproj.CoreCompileInputs.cache
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/HangMan.dll
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/refint/HangMan.dll
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/HangMan.pdb
+/Users/mahiee/Documents/GitHub/HangMan2/bin/Debug/net6.0/HangMan
+/Users/mahiee/Documents/GitHub/HangMan2/bin/Debug/net6.0/HangMan.deps.json
+/Users/mahiee/Documents/GitHub/HangMan2/bin/Debug/net6.0/HangMan.runtimeconfig.json
+/Users/mahiee/Documents/GitHub/HangMan2/bin/Debug/net6.0/HangMan.dll
+/Users/mahiee/Documents/GitHub/HangMan2/bin/Debug/net6.0/HangMan.pdb
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/HangMan.genruntimeconfig.cache
+/Users/mahiee/Documents/GitHub/HangMan2/obj/Debug/net6.0/ref/HangMan.dll
