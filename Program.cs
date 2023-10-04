@@ -1,5 +1,4 @@
 using System;
-using static System.Console;
 
 namespace HangMan
 {
@@ -8,17 +7,22 @@ namespace HangMan
         public static void Main(string[] args)
         {
             string word = Arjun.pickWord(2);
-            WriteLine(word);
-            WriteLine("Hello, World!");
-            for (var i = 0; i < 10; i++)
+            Console.WriteLine(word);
+            Console.WriteLine("Hello, World!");
+
+            // temporary for the gallows function - sophie
+            for (int i = 0; i < 10; i++)
             {
-                string guessedLetter = ReadLine();
-                CheckLetterFunction.CheckLetter(word , guessedLetter);
+                Console.WriteLine(Sophie.OutputGallows(i));
             }
-            for (var i = 0; i < 10; i++)
-            {
-                WriteLine(Sophie.OutputGallows(i));
-            }
+
+            // temporary for the outputting guessed letters + dashes func - sophie
+            char[] letters = new char[] { 'a', 'b', 'c' };
+            Console.WriteLine(Sophie.DisplayGuesses("absjdighd", letters));
+            // length of array not defined (yet?)
+
+            Console.WriteLine("Press Enter to close window...");
+            Console.ReadLine();
         }
     }
 }
