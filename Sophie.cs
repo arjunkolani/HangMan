@@ -16,7 +16,7 @@ namespace HangMan
             return Design[WrongTries];
         }
 
-        public static string DisplayGuesses(string word, char[] letters)
+        public static string DisplayGuesses(string word, string letters)
         {
             string OutStr = "";
             foreach (char c1 in word)
@@ -37,6 +37,15 @@ namespace HangMan
                 {
                     OutStr += '_';
                 }
+            }
+            return OutStr;
+        }
+        public static string Initial(string word)
+        {
+            string OutStr = "";
+            foreach (char c1 in word)
+            {
+                OutStr += '_';
             }
             return OutStr;
         }
