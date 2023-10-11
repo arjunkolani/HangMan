@@ -93,6 +93,7 @@ namespace HangMan
                     if (new string(guessedWord) == secretWord)
                     {
                         Console.WriteLine("\nCongratulations! You guessed the word: " + secretWord);
+                        Console.WriteLine("Also, HAPPY BIRTHDAY ANDERSON!");
                         break;
                     }
                 }
